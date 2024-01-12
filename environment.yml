@@ -1,0 +1,24 @@
+name: redes_neuronales
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - ipython
+  - jupyter
+  - jupyterlab
+  - missingno
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - tensorflow-cpu
+  - keras
+  - cpuonly
+  - pytorch
+  - pip
+  - plotly
+  - python=[3.12.1]
